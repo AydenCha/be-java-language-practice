@@ -2,8 +2,8 @@ package com.choongang;
 
 public class Type {
     public String type() {
-        int num;
-        char thing;
+        int num = 0; // 임시 값입니다. 아래 TODO에서 알맞은 값을 할당하세요.
+        char thing = ' '; // 임시 값입니다. 아래 TODO에서 알맞은 값을 할당하세요.
         //TODO : 변수 thing에 문자(char) 'A'를 할당하고, 변수 num에 숫자(int) 3을 할당합니다.
         // 아래 라인에 코드를 작성해 주세요.
 

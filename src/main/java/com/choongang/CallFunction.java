@@ -2,7 +2,7 @@ package com.choongang;
 
 public class CallFunction {
     public String invoke() {
-        String word;
+        String word = ""; // 임시 값입니다. 아래 TODO에서 알맞은 값을 할당하세요.
         // 문자열을 인자로 받아서 느낌표를 붙여서 리턴 해주는 메서드 returnWordWithJoy가 있습니다.
         // 메서드 returnWordWithJoy의 첫 번째 인자로 문자열 "I love coding"을 넣어서 호출하고, 그 결과값을 변수 word에 할당하세요
         //TODO : 아래 라인에 코드를 작성해 주세요.

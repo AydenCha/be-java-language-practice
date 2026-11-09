@@ -2,7 +2,7 @@ package com.choongang;
 
 public class GetRunCatDistance {
     public int getRunCatDistance(int speed, int time) {
-        int distance;
+        int distance = 0; // 임시 값입니다. 아래 TODO에서 알맞은 값을 할당하세요.
         // TODO: 속력(speed), 시간(time)이 숫자로 주어졌을 때, 이동한 거리를 변수 distance에 할당하여 리턴하는
         // getRunCatDistance 함수를 작성하세요.
         // speed와 time에 할당되는 값이 달라져도 정확한 distance를 반환해야 합니다.

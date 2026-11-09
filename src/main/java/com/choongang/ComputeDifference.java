@@ -2,7 +2,7 @@ package com.choongang;
 
 public class ComputeDifference {
     public String computeDifference(int num1, int num2) {
-        String result;
+        String result = ""; // 임시 값입니다. 아래 TODO에서 알맞은 값을 할당하세요.
         //TODO: 두 수를 입력받아 두 수의 차이를 나타내는 메세지를 result에 할당해야 합니다.
         // num1이 3, num2가 7이라면
         // "3, 7의 차이는 4입니다." 라는 문자열을 result에 할당해야 합니다.
